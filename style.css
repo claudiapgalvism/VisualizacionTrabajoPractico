@@ -25,3 +25,7 @@ x {
 div {
   margin: 20px;
 }
+
+.alineado {
+  text-align: justify;
+}
