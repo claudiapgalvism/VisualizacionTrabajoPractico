@@ -2,7 +2,26 @@ h1, h2 {
   font-family: Lato;
 }
 
+xta {
+  font-family: Tahoma;
+  font-size: 22px;
+}
+
+
+xt {
+  font-family: Tahoma;
+  font-size: 18px;
+}
+
 x {
-  font-family: cursive;
+  font-family: Tahoma;
   font-size: 14px;
+}
+
+.negrita { 
+  font-weight: bold;
+}
+
+div {
+  margin: 20px;
 }
